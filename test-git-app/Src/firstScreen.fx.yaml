@@ -18,8 +18,8 @@ firstScreen As screen:
 
     Button1 As button:
         Text: ="Button"
-        X: =609
-        Y: =294
+        X: =1206
+        Y: =726
         ZIndex: =3
 
     Label1_2 As label:
