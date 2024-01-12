@@ -41,7 +41,13 @@ firstScreen As screen:
     Button3 As button:
         Fill: =RGBA(250, 155, 112, 1)
         Text: ="hola que ase"
-        X: =1206
+        X: =488
         Y: =648
         ZIndex: =5
+
+    Label2 As label:
+        Text: =Text(busqueda)
+        X: =116
+        Y: =335
+        ZIndex: =7
 
