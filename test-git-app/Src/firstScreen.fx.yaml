@@ -16,3 +16,11 @@ firstScreen As screen:
         Y: =131
         ZIndex: =2
 
+    Label1_2 As label:
+        Height: =72
+        Text: ="Hola, estoy trabajando en la pantalla 3"
+        Width: =1235
+        X: =40
+        Y: =437
+        ZIndex: =3
+
