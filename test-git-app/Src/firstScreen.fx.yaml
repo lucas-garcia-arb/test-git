@@ -2,7 +2,7 @@ firstScreen As screen:
 
     Label1 As label:
         Height: =72
-        Text: ="Hola, estoy trabajando en la pantalla 1"
+        Text: ="Hola, estoy trabajando en la pantalla 27"
         Width: =1235
         X: =40
         Y: =40
