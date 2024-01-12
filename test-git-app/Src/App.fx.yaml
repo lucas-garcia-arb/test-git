@@ -1,6 +1,6 @@
 App As appinfo:
     BackEnabled: =true
-    OnStart: =Set(array, [1, 2, 3, 4 ,5]);
+    OnStart: =Set(busqueda, LookUp(equipos, ID = 3))
     Theme: =PowerAppsTheme
 
     Host As hostControl.DefaultHostControlVariant:

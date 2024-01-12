@@ -1,0 +1,53 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2023-12-21T18:40:03.7100000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "{Attachments}": "Attachments",
+      "{Attachments}@odata.type": "{Attachments} ({Attachments}@odata.type)",
+      "{FilenameWithExtension}": "File name with extension",
+      "{FullPath}": "Full Path",
+      "{HasAttachments}": "Has attachments",
+      "{Identifier}": "Identifier",
+      "{IsFolder}": "IsFolder",
+      "{Link}": "Link to item",
+      "{ModerationComment}": "Comments associated with the content approval of this list item",
+      "{ModerationStatus}": "Content approval status",
+      "{Name}": "Name",
+      "{Path}": "Folder path",
+      "{Thumbnail}": "Miniatura",
+      "{TriggerWindowEndToken}": "Trigger Window End Token",
+      "{TriggerWindowStartToken}": "Trigger Window Start Token",
+      "{VersionNumber}": "Version number",
+      "asociacion": "asociacion",
+      "Author": "Created By",
+      "Author#Claims": "Created By Claims",
+      "ComplianceAssetId": "Compliance Asset Id",
+      "Created": "Created",
+      "Editor": "Modified By",
+      "Editor#Claims": "Modified By Claims",
+      "email_repre": "email_repre",
+      "ID": "ID",
+      "id_torneo_fk": "id_torneo_fk",
+      "id_torneo_fk#Id": "id_torneo_fk Id",
+      "Modified": "Modified",
+      "nombre_equipo": "nombre_e",
+      "numero_equipo": "numero_e",
+      "numero_sobre": "numero_sobre",
+      "OData__ColorTag": "Color Tag",
+      "pais": "pais_e",
+      "tel_repre_e": "tel_repre_e",
+      "Title": "Title"
+    },
+    "DatasetName": "https://arbustanet.sharepoint.com/sites/AUA",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "equipos",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]
