@@ -38,3 +38,10 @@ firstScreen As screen:
         Y: =688
         ZIndex: =5
 
+    Button3 As button:
+        Fill: =RGBA(250, 155, 112, 1)
+        Text: ="hola que ase"
+        X: =1206
+        Y: =688
+        ZIndex: =5
+
