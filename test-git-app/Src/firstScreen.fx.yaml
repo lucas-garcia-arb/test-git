@@ -26,7 +26,7 @@ firstScreen As screen:
 
     Button1 As button:
         Fill: =RGBA(250, 155, 112, 1)
-        Text: ="ZzzzZ"
+        Text: ="que onda"
         X: =1206
         Y: =728
         ZIndex: =4
