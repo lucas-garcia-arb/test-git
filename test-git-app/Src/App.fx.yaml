@@ -1,5 +1,6 @@
 App As appinfo:
     BackEnabled: =true
+    OnStart: =Set(array, [1, 2, 3, 4 ,5]);
     Theme: =PowerAppsTheme
 
     Host As hostControl.DefaultHostControlVariant:
