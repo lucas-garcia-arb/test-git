@@ -25,7 +25,7 @@ firstScreen As screen:
         ZIndex: =3
 
     Button1 As button:
-        Text: ="Hola"
+        Text: ="que onda"
         X: =1206
         Y: =726
         ZIndex: =4
