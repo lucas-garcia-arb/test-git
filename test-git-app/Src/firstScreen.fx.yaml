@@ -16,3 +16,9 @@ firstScreen As screen:
         Y: =131
         ZIndex: =2
 
+    Button1 As button:
+        Text: ="Button"
+        X: =609
+        Y: =294
+        ZIndex: =3
+
