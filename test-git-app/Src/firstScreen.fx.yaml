@@ -42,6 +42,6 @@ firstScreen As screen:
         Fill: =RGBA(250, 155, 112, 1)
         Text: ="hola que ase"
         X: =488
-        Y: =704
+        Y: =648
         ZIndex: =5
 

@@ -1,83 +1,26 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Button1": 6,
-    "Button2": 8,
-    "Button3": 7,
-    "firstScreen": 4,
-    "Host": 3,
-    "Label1": 5,
-    "Label1_1": 9,
-    "Label1_2": 10,
-    "secondScreen": 11,
-    "thirdScreen": 12
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2024 14:50:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
-  "LocalConnectionIDReferences": {
-    "6cdad91a-14ae-47e9-b7ce-6d9975118803": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/2884ff9be4e643289c88be2cf22c8283\""
-  },
+  "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0,
-    "equipos": 1
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "button": 1,
-    "label": 0
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Button1": {},
-    "Button2": {},
-    "Button3": {},
-    "firstScreen": {},
-    "Host": {},
-    "Label1": {},
-    "Label1_1": {},
-    "Label1_2": {},
-    "secondScreen": {},
-    "thirdScreen": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Button1": 6,
-    "Button2": 4,
-    "Button3": 5,
-    "firstScreen": 3,
-    "Host": 0,
-    "Label1": 0,
-    "Label1_1": 1,
-    "Label1_2": 3,
-    "secondScreen": 10,
-    "thirdScreen": 11
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0199803,
-    "ControlCount": {
-      "button": 3,
-      "label": 3,
-      "screen": 3
-    },
-    "DeserializationLoadTime": 0.1972013
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
