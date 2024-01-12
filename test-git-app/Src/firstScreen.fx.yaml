@@ -16,12 +16,6 @@ firstScreen As screen:
         Y: =131
         ZIndex: =2
 
-    Button1 As button:
-        Text: ="Button"
-        X: =1206
-        Y: =726
-        ZIndex: =3
-
     Label1_2 As label:
         Height: =72
         Text: ="Hola, estoy trabajando en la pantalla 3"
@@ -29,4 +23,10 @@ firstScreen As screen:
         X: =40
         Y: =437
         ZIndex: =3
+
+    Button1 As button:
+        Text: ="Button"
+        X: =1206
+        Y: =726
+        ZIndex: =4
 
