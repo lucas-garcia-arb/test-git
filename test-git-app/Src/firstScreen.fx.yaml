@@ -45,9 +45,3 @@ firstScreen As screen:
         Y: =704
         ZIndex: =5
 
-    Label2 As label:
-        Text: =Text(busqueda)
-        X: =116
-        Y: =335
-        ZIndex: =7
-

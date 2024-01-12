@@ -11,13 +11,12 @@
     "Label1": 5,
     "Label1_1": 9,
     "Label1_2": 10,
-    "Label2": 21,
     "secondScreen": 11,
     "thirdScreen": 12
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2024 14:07:28",
+  "HeaderLastSavedDateTimeUTC": "01/12/2024 14:50:43",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "6cdad91a-14ae-47e9-b7ce-6d9975118803": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/2884ff9be4e643289c88be2cf22c8283\""
@@ -48,7 +47,6 @@
     "Label1": {},
     "Label1_1": {},
     "Label1_2": {},
-    "Label2": {},
     "secondScreen": {},
     "thirdScreen": {}
   },
@@ -64,7 +62,6 @@
     "Label1": 0,
     "Label1_1": 1,
     "Label1_2": 3,
-    "Label2": 2,
     "secondScreen": 10,
     "thirdScreen": 11
   },
